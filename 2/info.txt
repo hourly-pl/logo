@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Rubik-Regular
+font link: https://fonts.google.com/specimen/Rubik
+font author: Hubert and Fischer
+font author site: http://hubertfischer.com/
+
+
+icon designer: Delwar Hossain
+icon designer link: /delwar
+        
+
+fontColor: {"gradient-0":"#5D9E02","gradient-1":"#CBDA01"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#5D9E02","gradient-1":"#CBDA01"}
+
+      
